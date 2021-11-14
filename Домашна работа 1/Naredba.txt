@@ -1,0 +1,1 @@
+osmfilter macedonia-latest.osm --keep="amenity=cafe" --keep="amenity=restaurant" --drop-ways="*=" --drop-relations="*=" | osmconvert - --csv="@id @lon @lat amenity name cuisine opening_hours takeaway delivery payment phone website" --csv-headline --csv-separator="," -o="Combined.csv"
