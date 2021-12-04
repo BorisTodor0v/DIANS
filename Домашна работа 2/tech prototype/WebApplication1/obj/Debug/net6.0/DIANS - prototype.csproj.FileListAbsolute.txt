@@ -1,0 +1,51 @@
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\DIANS - prototype.staticwebassets.runtime.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\DIANS - prototype.exe
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\DIANS - prototype.deps.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\DIANS - prototype.runtimeconfig.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\ref\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\bin\Debug\net6.0\DIANS - prototype.pdb
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.AssemblyInfoInputs.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.AssemblyInfo.cs
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.RazorAssemblyInfo.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.RazorAssemblyInfo.cs
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\DIANS - prototype.styles.css
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\DIANS - prototype.bundle.scp.css
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.pdb
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\WebApplication1\obj\Debug\net6.0\DIANS - prototype.genruntimeconfig.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\DIANS - prototype.staticwebassets.runtime.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\DIANS - prototype.exe
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\DIANS - prototype.deps.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\DIANS - prototype.runtimeconfig.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\ref\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\bin\Debug\net6.0\DIANS - prototype.pdb
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.csproj.AssemblyReference.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.AssemblyInfoInputs.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.AssemblyInfo.cs
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.RazorAssemblyInfo.cache
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.RazorAssemblyInfo.cs
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\DIANS - prototype.styles.css
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\DIANS - prototype.bundle.scp.css
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\ref\DIANS - prototype.dll
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.pdb
+C:\Users\Ivan Todorov\Desktop\Домашна работа 2\tech prototype\WebApplication1\obj\Debug\net6.0\DIANS - prototype.genruntimeconfig.cache
