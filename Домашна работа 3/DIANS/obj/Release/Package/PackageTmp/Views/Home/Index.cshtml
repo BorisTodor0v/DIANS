@@ -1,0 +1,122 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<style>
+    .slider {
+        width: 1024px;
+        margin: 2em auto;
+    }
+
+    .slider-wrapper {
+        width: 100%;
+        height: 400px;
+        position: relative;
+    }
+
+    .slide {
+        float: left;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 3s linear;
+    }
+
+    .slider-wrapper > .slide:first-child {
+        opacity: 1;
+    }
+</style>
+
+<script>
+    (function () {
+
+        function Slideshow(element) {
+            this.el = document.querySelector(element);
+            this.init();
+        }
+
+        Slideshow.prototype = {
+            init: function () {
+                this.wrapper = this.el.querySelector(".slider-wrapper");
+                this.slides = this.el.querySelectorAll(".slide");
+                this.previous = this.el.querySelector(".slider-previous");
+                this.next = this.el.querySelector(".slider-next");
+                this.index = 0;
+                this.total = this.slides.length;
+                this.timer = null;
+
+                this.action();
+                this.stopStart();
+            },
+            _slideTo: function (slide) {
+                var currentSlide = this.slides[slide];
+                currentSlide.style.opacity = 1;
+
+                for (var i = 0; i < this.slides.length; i++) {
+                    var slide = this.slides[i];
+                    if (slide !== currentSlide) {
+                        slide.style.opacity = 0;
+                    }
+                }
+            },
+            action: function () {
+                var self = this;
+                self.timer = setInterval(function () {
+                    self.index++;
+                    if (self.index == self.slides.length) {
+                        self.index = 0;
+                    }
+                    self._slideTo(self.index);
+
+                }, 10000);
+            },
+            stopStart: function () {
+                var self = this;
+                self.el.addEventListener("mouseover", function () {
+                    clearInterval(self.timer);
+                    self.timer = null;
+
+                }, false);
+                self.el.addEventListener("mouseout", function () {
+                    self.action();
+
+                }, false);
+            }
+
+
+        };
+
+        document.addEventListener("DOMContentLoaded", function () {
+
+            var slider = new Slideshow("#main-slider");
+
+        });
+
+
+    })();
+</script>
+
+<div class="slider" id="main-slider">
+    <!-- outermost container element -->
+    <div class="slider-wrapper">
+        <!-- innermost wrapper element -->
+        <img src="https://images.pexels.com/photos/63633/bar-local-cong-ireland-63633.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="First" class="slide" /><!-- slides -->
+        <img src="https://images.pexels.com/photos/6267/menu-restaurant-vintage-table.jpg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Second" class="slide" />
+    </div>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Добредојдовте во Night out</h1>
+    <p>Пример текст - објаснување што е страната</p>
+    <p>Пример текст - како се користи</p>
+    <p>Пример текст - линкови кон страните за  @Html.ActionLink("барови", "Bars", "Home") и @Html.ActionLink("ресторани", "Restaurants", "Home") .</p>
+</div>
+<p class="text-center">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2964.8209442256452!2d21.407359215445023!3d42.0041181792
+    1236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13541443605aa4ab%3A0x33d56647e5b87264!2sFaculty%20of%20Computer%20Science%20%2
+    6%20Engineering!5e0!3m2!1sen!2smk
+    !4v1590421254693!5m2!1sen!2smk"
+            width="1200" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</p>
+</div>
